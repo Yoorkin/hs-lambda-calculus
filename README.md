@@ -2,7 +2,7 @@
 
 λ-calculus interpreter by haskell.
 
-|Syntax|Syntax|
+|Syntax|Description|
 |-|-|
 |`let name = expression`|set alias of expression|
 |`dsp expression`|display evaluated expression|
